@@ -1,0 +1,6 @@
+dealii_db_400_40/chroma.sqlite3 filter=lfs diff=lfs merge=lfs -text
+dealii_db_400_40/d840047a-f17e-4284-aecd-bd6977e4a5e4/data_level0.bin filter=lfs diff=lfs merge=lfs -text
+dealii_db_400_40/d840047a-f17e-4284-aecd-bd6977e4a5e4/header.bin filter=lfs diff=lfs merge=lfs -text
+dealii_db_400_40/d840047a-f17e-4284-aecd-bd6977e4a5e4/index_metadata.pickle filter=lfs diff=lfs merge=lfs -text
+dealii_db_400_40/d840047a-f17e-4284-aecd-bd6977e4a5e4/length.bin filter=lfs diff=lfs merge=lfs -text
+dealii_db_400_40/d840047a-f17e-4284-aecd-bd6977e4a5e4/link_lists.bin filter=lfs diff=lfs merge=lfs -text
